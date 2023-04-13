@@ -397,7 +397,7 @@ ul {
 }
 
 .team-social-link:hover,
-.item-social-link:focus {
+.team-social-link:focus {
   background-color: var(--btn-active-color);
 }
 
